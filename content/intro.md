@@ -4,5 +4,5 @@ Zero Knowledge Proofs (ZKPs) are a powerful cryptographic tool that allows one p
 
 ZKPs have gained significant attention in recent years, especially in the context of blockchain technology and cryptocurrencies. They enable secure transactions, enhance privacy, and facilitate trustless interactions between parties.
 
-```table-of-contents
+```{tableofcontents}
 ```
