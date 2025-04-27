@@ -8,27 +8,26 @@ parts:
     numbered: false
     chapters:      
       - file: Zero-Knowledge-Proofs/applications.ipynb
-        title: Applications in Forensics
+        title: 1. Applications in Forensics
   - caption: B. Schnorr Protocol
     numbered: false
     chapters:
       - file: Schnorr-Protocol/schnorr_1.ipynb
-        title: Introduction to Schnorr
+        title: 1. Introduction to Schnorr
       - file: Schnorr-Protocol/schnorr_2.ipynb
-        title: Python Implementation
-
+        title: 2. Python Implementation
+      - file: Schnorr-Protocol/schnorr_3.ipynb
+        title: 3. Example- File Possession
       - file: Schnorr-Protocol/schnorr_4.ipynb
-        title: Example- File Possession
-      - file: Schnorr-Protocol/schnorr_5.ipynb
-        title: Example- File Tampering
+        title: 4. Example- File Tampering
   - caption: C. Sigma Protocol
     numbered: false
     chapters:
       - file: Sigma-Protocol/sigma_1.ipynb
-        title: Introduction to Sigma
+        title: 1. Introduction to Sigma
       - file: Sigma-Protocol/sigma_2.ipynb
-        title: Python Implementation
+        title: 2. Python Implementation
       - file: Sigma-Protocol/sigma_3.ipynb
-        title: Example- File Possession
+        title: 3. Example- File Possession
       - file: Sigma-Protocol/sigma_4.ipynb
-        title: Example- File Tampering
+        title: 4. Example- File Tampering
