@@ -7,5 +7,15 @@ parts:
   - caption:
     numbered: false
     chapters:
-      - file: content/Schnorr/schnorr_page1.ipynb
-        title: Schnorr
+      - file: content/Schnorr/intro.md
+        sections:
+        - file: content/Schnorr/schnorr_1.ipynb
+          title: Introduction to Schnorr
+        - file: content/Schnorr/schnorr_2.ipynb
+          title: Python Implementation
+        - file: content/Schnorr/schnorr_3.ipynb
+          title: Applications in Forensics
+        - file: content/Schnorr/schnorr_4.ipynb
+          title: Example- File Possession
+        - file: content/Schnorr/schnorr_5.ipynb
+          title: Example- File Tampering
