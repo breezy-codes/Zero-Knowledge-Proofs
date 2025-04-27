@@ -4,18 +4,31 @@
 format: jb-book
 root: content/intro
 parts:
-  - caption:
+  - caption: A. Zero Knowledge Proofs
+    numbered: false
+    chapters:      
+      - file: Zero-Knowledge-Proofs/applications.ipynb
+        title: Applications in Forensics
+  - caption: B. Schnorr Protocol
     numbered: false
     chapters:
-      - file: Schnorr-Protocol/intro.md
-        sections:
-        - file: Schnorr-Protocol/schnorr_1.ipynb
-          title: Introduction to Schnorr
-        - file: Schnorr-Protocol/schnorr_2.ipynb
-          title: Python Implementation
-        - file: Schnorr-Protocol/schnorr_3.ipynb
-          title: Applications in Forensics
-        - file: Schnorr-Protocol/schnorr_4.ipynb
-          title: Example- File Possession
-        - file: Schnorr-Protocol/schnorr_5.ipynb
-          title: Example- File Tampering
+      - file: Schnorr-Protocol/schnorr_1.ipynb
+        title: Introduction to Schnorr
+      - file: Schnorr-Protocol/schnorr_2.ipynb
+        title: Python Implementation
+
+      - file: Schnorr-Protocol/schnorr_4.ipynb
+        title: Example- File Possession
+      - file: Schnorr-Protocol/schnorr_5.ipynb
+        title: Example- File Tampering
+  - caption: C. Sigma Protocol
+    numbered: false
+    chapters:
+      - file: Sigma-Protocol/sigma_1.ipynb
+        title: Introduction to Sigma
+      - file: Sigma-Protocol/sigma_2.ipynb
+        title: Python Implementation
+      - file: Sigma-Protocol/sigma_3.ipynb
+        title: Example- File Possession
+      - file: Sigma-Protocol/sigma_4.ipynb
+        title: Example- File Tampering
