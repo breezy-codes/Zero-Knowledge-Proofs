@@ -8,7 +8,6 @@ parts:
     numbered: false
     chapters:
       - file: content/Schnorr/intro.md
-        tite: Intro to Schnorr
         sections:
         - file: content/Schnorr/schnorr_1.ipynb
           title: Introduction to Schnorr

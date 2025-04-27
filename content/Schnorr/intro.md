@@ -1,4 +1,4 @@
-# Introduction to Schnorr Signatures in Zero-Knowledge Proofs
+# Intro to Schnorr in ZKP
 
 Schnorr signatures are a type of digital signature scheme that is widely used in cryptography. They are known for their simplicity, efficiency, and strong security properties. In the context of zero-knowledge proofs (ZKPs), Schnorr signatures play a crucial role in enabling secure and private transactions.
 
