@@ -40,4 +40,4 @@ sphinx:
 
 html:
   extra_css:
-    - content/_static/custom.css
+    - _static/custom.css
