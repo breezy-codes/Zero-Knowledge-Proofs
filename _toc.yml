@@ -7,15 +7,15 @@ parts:
   - caption:
     numbered: false
     chapters:
-      - file: content/Schnorr-Protocol/intro.md
+      - file: Schnorr-Protocol/intro.md
         sections:
-        - file: content/Schnorr-Protocol/schnorr_1.ipynb
+        - file: Schnorr-Protocol/schnorr_1.ipynb
           title: Introduction to Schnorr
-        - file: content/Schnorr-Protocol/schnorr_2.ipynb
+        - file: Schnorr-Protocol/schnorr_2.ipynb
           title: Python Implementation
-        - file: content/Schnorr-Protocol/schnorr_3.ipynb
+        - file: Schnorr-Protocol/schnorr_3.ipynb
           title: Applications in Forensics
-        - file: content/Schnorr-Protocol/schnorr_4.ipynb
+        - file: Schnorr-Protocol/schnorr_4.ipynb
           title: Example- File Possession
-        - file: content/Schnorr-Protocol/schnorr_5.ipynb
+        - file: Schnorr-Protocol/schnorr_5.ipynb
           title: Example- File Tampering
